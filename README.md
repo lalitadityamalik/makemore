@@ -10,11 +10,11 @@ Currently bigram-only. Next: MLP-based character model (in progress).
 
 ## What's in here
 
-- 'bigram/bigram_using_tensors.ipynb' — count-based bigram model, implemented using tensor functions available in the pytorch library.
-- 'bigram/bigram_using_neural_nets.ipynb' — count-based bigram model, implemented using a simple single-layered neural network.
-- 'bigram/plot_tensor.ipynb' — plots the bigram model in the form of a (27,27) tensor
-- 'names.txt' — training data (32K names)
-- 'bigram/tensor.png' — the image of the tensor created in 'plot_tensor.ipynb'
+- `bigram/bigram_using_tensors.ipynb` — count-based bigram model, implemented using tensor functions available in the pytorch library.
+- `bigram/bigram_using_neural_nets.ipynb` — count-based bigram model, implemented using a simple single-layered neural network.
+- `bigram/plot_tensor.ipynb` — plots the bigram model in the form of a (27,27) tensor
+- `names.txt` — training data (32K names)
+- `bigram/tensor.png` — the image of the tensor created in `plot_tensor.ipynb`
 
 
 ## How it works
